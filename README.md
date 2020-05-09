@@ -25,7 +25,7 @@ This gets a random 32byte key from signed HKDF master key which was created [ecc
 
 # Run this project
 
-execute "./keyout <target filename>" on termial.  
+execute "./keyout (input key filename)" on termial.  
 random 32byte key which uses with cryptsetup will emit to stdout.   
 
 # License
